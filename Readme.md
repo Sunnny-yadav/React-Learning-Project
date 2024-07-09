@@ -4,7 +4,7 @@ This repository contains a collection of basic projects I built while learning R
 
 ## Projects Overview
 
-1. [Background Changer](./01bgchanger)
+1. [Background Changer](./01bgChanger)
    - A simple app to change the background color using React and Tailwind CSS.
 2. [Password Generator](./02passwordGenerator)
    - An app to generate strong passwords with customizable options.
