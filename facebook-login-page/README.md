@@ -1,9 +1,15 @@
-# Facebook Login page clone using Tailwind CSS
-This is a basic web page which is designed using tailwind utility classes. 
-<br>
-Tailwind css has very much advantages as compared to vanilla CSS. for example, its reduce the complexity of naming the tags ,and many more. 
-<br>
-Tailwind CSS is considered to be best for production of website.
-<br>
-Things to be noted before using tailwind :
-your device must  already consist node.js package else you won't be able to use it.
+# Facebook Login Page Clone
+
+This project is a clone of the Facebook login page, built using HTML and Tailwind CSS. It replicates the appearance of the Facebook login interface.
+The main aim of building this project is to explore Tailwind CSS
+
+## Technologies Used
+
+- **HTML**: Markup language for structuring the login page.
+- **Tailwind CSS**: Utility-first CSS framework for styling the interface.
+
+## Learnings
+
+- **HTML Structure**: Constructs the login form and UI components.
+- **Tailwind CSS Styling**: Implements styles using utility classes to replicate the Facebook login page.
+
