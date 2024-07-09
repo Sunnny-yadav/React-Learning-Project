@@ -22,7 +22,7 @@ This project is a currency converter application built using React and Tailwind 
 
 ## How to Use
 
-1. **Clone the repository:**
+1. **Clone the repository:** 
    ```bash
    git clone https://github.com/Sunnny-yadav/react-learning-projects.git
    cd react-learning-projects/03currencyConverter
