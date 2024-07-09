@@ -62,7 +62,6 @@ Each project helped me deepen my understanding of React and Tailwind CSS. I have
 ## contact 
 Feel free to reach out if you have any questions or feedback.
 
-- **Name** : Sunny yadav
 - **Email** : sunny9405683@gmail.com
 - **LinkedIn** : [Sunny Yadav](https://linkedin.com/in/sunny-yadav-31b27325b)
 
