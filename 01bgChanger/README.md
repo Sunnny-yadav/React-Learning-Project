@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Projects Overview
 
-### Background Changer
+### Background Changer 
 
 This project is a simple React application that allows users to change the background color of the webpage by clicking on different color buttons.
 
