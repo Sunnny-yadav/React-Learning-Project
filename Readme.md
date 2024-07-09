@@ -4,19 +4,19 @@ This repository contains a collection of basic projects I built while learning R
 
 ## Projects Overview
 
-1. [Background Changer](./bgchanger)
+1. [Background Changer](./01bgChanger)
    - A simple app to change the background color using React and Tailwind CSS.
-2. [Password Generator](./passwordGenerator)
+2. [Password Generator](./02passwordGenerator)
    - An app to generate strong passwords with customizable options.
-3. [Currency Converter](./currencyConverter)
+3. [Currency Converter](./03currencyConverter)
    - A currency conversion application that uses real-time exchange rates.
-4. [React Router Example](./reactRouter)
+4. [React Router Example](./04reactRouter)
    - Demonstrates the use of React Router for navigating between different pages.
-5. [Theme Changer](./themeChanger)
+5. [Theme Changer](./05themeChanger)
    - An app that allows users to switch between light and dark themes.
-6. [Todo App with Context API](./todo_contextAPI)
+6. [Todo App with Context API](./06todo_contextAPI)
    - A Todo list application that manages state using React's Context API.
-7. [Todo App with Redux](./todo_redux)
+7. [Todo App with Redux](./07todo_redux)
    - A Todo list application that manages state using Redux.
 8. [Facebook Login Page Clone](./facebook-login-page)
    - A clone of the Facebook login page built using Tailwind CSS.
