@@ -41,7 +41,7 @@ This project is a simple password generator built using React and Tailwind CSS. 
    npm install
    ```
 3. **Run the development server**:
-   ```bash 
+   ```bash  
    npm run dev
     ```
 4. Navigate to localhost link to view you app
