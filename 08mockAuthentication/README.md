@@ -26,7 +26,7 @@ This project is a simple web application that simulates the login and registrati
 - **Local Storage**: Stores user data (username and password) persistently in the browser.
 - **CSS**: Basic CSS for styling the components.
 
-![Login Page](./src/assets/login.png)
+![Login Page](./src/assets/Register.png)
 ![Quote Page](./src/assets/image.png)
 
 ## Learnings
