@@ -28,7 +28,7 @@ This project is a simple password generator built using React and Tailwind CSS. 
 - **useEffect Hook**: Triggers password generation on component mount and whenever dependencies change.
 - **useRef Hook**: Handles reference to the password input field for copy functionality.
 - **Tailwind CSS**: Provides utility-first CSS classes for styling the components.
-![passwordGenerator](./src/assets/image.png)
+![Password Generator](./src/assets/image.png)
 
 #### How to Use
 
