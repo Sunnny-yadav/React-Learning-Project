@@ -13,7 +13,7 @@ This project is a web application built using React and Context API. It enables 
 - **Context API**: Provides a way to share data globally in the React component tree.
 - **useState Hook**: Manages local component state for toggling between themes.
 - **CSS**: Basic CSS for styling components.
-![theme toggelar white](./src/assets/bhite.png)
+![theme toggelar white](./src/assets/white.png)
 ![theme toggelar black](./src/assets/image.png)
 ## Learnings
 
