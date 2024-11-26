@@ -24,6 +24,7 @@ This project is a simple React application that allows users to change the backg
 - **React**: Used for building the user interface and managing state.
 - **useState Hook**: Manages the state of the background color.
 - **Tailwind CSS**: Handles styling with utility-first CSS classes.
+![Background Changer](./src/assets/image.png)
 
 
 #### How to Use
