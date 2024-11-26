@@ -20,6 +20,8 @@ This project is a web application built using React and Redux, utilizing Redux T
 - **useDispatch Hook**: Dispatches actions to update state in Redux store.
 - **CSS**: Basic CSS for styling components.
 
+![add todo image](./src/assets/add.png)
+![update todo image](./src/assets/image.png)
 ## Learnings
 
 - **Redux**: Implements Redux Toolkit to manage state for todo items and their statuses.
