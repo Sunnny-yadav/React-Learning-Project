@@ -18,7 +18,9 @@ This repository contains a collection of basic projects I built while learning R
    - A Todo list application that manages state using React's Context API.
 7. [Todo App with Redux](./07todo_redux)
    - A Todo list application that manages state using Redux.
-8. [Facebook Login Page Clone](./facebook-login-page)
+8. [Mock-Authentication](./08mockAuthentication)
+   -A mock login and registration system using React-Redux, and local storage. Includes features like error handling for incorrect passwords and a seamless user experience for registration and login.
+9. [Facebook-login-page](./facebook-login-page)
    - A clone of the Facebook login page built using Tailwind CSS.
 
 ## Concepts Learned
