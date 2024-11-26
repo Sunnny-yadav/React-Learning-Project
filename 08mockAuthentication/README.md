@@ -41,3 +41,10 @@ This project is a simple web application that simulates the login and registrati
    ```bash
    git clone https://github.com/Sunnny-yadav/react-learning-projects.git
    cd react-learning-projects/08mockAuthentication
+2. **Install Dependencies:**:
+   ```bash
+   npm i
+3. **Start the development server:**
+   ```bash
+   npm run dev
+
