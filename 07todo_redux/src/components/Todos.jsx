@@ -25,15 +25,16 @@ function Todos({ Reference }) {
   const editIcon = (id) => {
     dispatch(updateIcon(id))
   }
-
+  
+  useEffect(() => {
+    const data = JSON.parse(localStorage.getItem("todos")) || [];
+    dispatch(loadTodo(data))
+  }, []);
+  
   useEffect(() => {
     localStorage.setItem("todos", JSON.stringify(todos))
   }, [todos]);
 
-  useEffect(() => {
-    const data = JSON.parse(localStorage.getItem("todos")) || [];
-    dispatch(loadTodo(data))
-  }, [])
 
 
   return (
