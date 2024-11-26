@@ -6,12 +6,17 @@ function useFetch(updateMsg) {
 
   useEffect(() => {
     const fetchdata = async () => {
-      const val = await fetch("https://type.fit/api/quotes");
+      const val = await fetch("/api");
       const ans = await val.json();
-      const randomIndex = Math.floor(Math.random() * ans.length);
-      const Text = ans[randomIndex].text;
-      const word = ans[randomIndex].author;
-      const Author = word.split(",")[0];
+console.log(ans)
+      // const randomIndex = Math.floor(Math.random() * ans.length);
+      // const Text = ans[randomIndex].q;
+      // const word = ans[randomIndex].a;
+      const Text = ans[0].q;
+      const Author = ans[0].a;
+      // const Text = ans.q;
+      // const Author = ans.a;
+      // const Author = word.split(",")[0];
       setauthor(Author);
       setmsg(Text);
     };
