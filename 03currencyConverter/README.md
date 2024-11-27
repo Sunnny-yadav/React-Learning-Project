@@ -19,7 +19,7 @@ This project is a currency converter application built using React and Tailwind 
 - **useEffect Hook**: Triggers API calls on component mount and whenever the currency selection changes.
 - **Inputbox Component**: Reusable component for input fields and currency selection.
 - **API**: Fetches data from the [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/) for real-time exchange rates.
-
+ ![currency converter image](./src/assets/image.png)
 ## How to Use
 
 1. **Clone the repository:** 

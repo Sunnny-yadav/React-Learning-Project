@@ -17,6 +17,7 @@ This project is a web application built using React and React Router. It demonst
 - **useEffect Hook**: Handles side effects such as data fetching and updating the document title.
 - **CSS Modules/Tailwind CSS**: For styling the components.
 
+![React Router page](./src/assets/image.png)
 
 ## Learnings
 - **Link**:  Used to create navigational links that allow users to navigate around the application
