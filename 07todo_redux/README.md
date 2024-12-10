@@ -1,4 +1,4 @@
-# React Todo List Project with Redux
+# ToDoMaster- Todo List Project with Redux
 
 This project is a web application built using React and Redux, utilizing Redux Toolkit to manage state for a todo list. It demonstrates a simple todo list with functionalities to add, update, toggle status, remove tasks, and more using Redux for state management.
 
