@@ -1,4 +1,4 @@
-# React Todo List Project
+# ToDoMaster 
 
 This project is a web application built using React, utilizing React Context API for managing todo items. It demonstrates a simple todo list with functionalities to add, update, toggle status, and remove tasks.
 
